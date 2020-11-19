@@ -10,9 +10,9 @@
 
 ## 🧐 **About**
 
-- 👨‍💻 My Website: silash35.github.io
+- 👨‍💻 My Website: [silash35.github.io](https://silash35.github.io)
 - 📫 How to reach me: silash35@gmail.com
-- 🌱 Tools and stuff: 
+- 🌱 Tools and stuff:
 
     <div>
         <img height="24" src="https://cdn.svgporn.com/logos/linux-tux.svg">
@@ -22,7 +22,7 @@
         <img height="24" src="https://cdn.svgporn.com/logos/qt.svg">
         <img height="24" src="https://cdn.svgporn.com/logos/github-icon.svg">
         <img height="24" src="https://cdn.svgporn.com/logos/yarn.svg">
-        <img height="24" src="https://cdn.svgporn.com/logos/react.svg">        
+        <img height="24" src="https://cdn.svgporn.com/logos/react.svg">
     </div>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silash35&hide_border=true" alt="">
