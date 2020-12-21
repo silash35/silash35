@@ -24,7 +24,11 @@
     <img height="24" src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git icon">
     <img height="24" src="https://cdn.svgporn.com/logos/arduino.svg" alt="Arduino icon">
     <img height="24" src="https://cdn.svgporn.com/logos/qt.svg" alt="Qt icon">
-    <img height="24" src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github icon">
+  
+    <img height="24" src="https://cdn.svgporn.com/logos/materializecss.svg" alt="Materialize icon">
+    <img height="24" src="https://cdn.svgporn.com/logos/material-ui.svg" alt="Material UI icon">
+    <img height="24" src="https://cdn.svgporn.com/logos/heroku-icon.svg" alt="Heroku icon">
+  
     <img height="24" src="https://cdn.svgporn.com/logos/yarn.svg" alt="Yarn icon">
     <img height="24" src="https://cdn.svgporn.com/logos/react.svg" alt="React icon">
   </div>
