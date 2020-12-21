@@ -4,9 +4,12 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/silash35)](https://twitter.com/silash35)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:silash35@gmail.com)](mailto:silash35@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/silash35)](https://github.com/silash35)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=silash35)
+![number of visitors](https://visitor-badge.laobi.icu/badge?page_id=silash35)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=silash35&show_icons=true&hide_border=true" alt="">
+<img
+    align="right"
+    src="https://github-readme-stats.vercel.app/api?username=silash35&hide_border=true&show_icons=true&title_color=fff&text_color=fff&bg_color=0d1117"
+    alt="My Github stats, such as the number of commits made, stars, etc.">
 
 ## 🧐 **About**
 
@@ -26,5 +29,10 @@
     </div>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silash35&hide_border=true" alt="">
+
+<img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=silash35&layout=compact&hide_border=true&show_icons=true&text_color=fff&bg_color=0d1117"
+    alt="Top most used Languages of silash35 Card">
 
 ⭐️ From [Silash35](https://github.com/silash35)
