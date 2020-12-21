@@ -28,8 +28,6 @@
         <img height="24" src="https://cdn.svgporn.com/logos/react.svg">
     </div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silash35&hide_border=true" alt="">
-
 <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=silash35&layout=compact&hide_border=true&show_icons=true&text_color=fff&bg_color=0d1117"
