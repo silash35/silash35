@@ -19,18 +19,25 @@
 - 🌱 Tools and stuff:
 
   <div>
-    <img height="24" src="https://cdn.svgporn.com/logos/linux-tux.svg" alt="linux icon">
-    <img height="24" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VS code icon">
-    <img height="24" src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git icon">
+    <!--- Web development -->
+    <img height="24" src="https://cdn.svgporn.com/logos/materializecss.svg" alt="Materialize icon">
+    <img height="24" src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="TypeScript icon">
+    <img height="24" src="https://cdn.svgporn.com/logos/material-ui.svg" alt="Material UI icon">
+    <img height="24" src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="Next.js icon">
+    <img height="24" src="https://cdn.svgporn.com/logos/react.svg" alt="React.js icon">
+    <img height="24" src="https://cdn.svgporn.com/logos/eslint.svg" alt="ESLint icon">
+    <img height="24" src="https://cdn.svgporn.com/logos/npm-icon.svg" alt="NPM icon">
+    <img height="24" src="https://cdn.svgporn.com/logos/yarn.svg" alt="Yarn icon">
+    
+    <!--- C++ -->
     <img height="24" src="https://cdn.svgporn.com/logos/arduino.svg" alt="Arduino icon">
     <img height="24" src="https://cdn.svgporn.com/logos/qt.svg" alt="Qt icon">
-  
-    <img height="24" src="https://cdn.svgporn.com/logos/materializecss.svg" alt="Materialize icon">
-    <img height="24" src="https://cdn.svgporn.com/logos/material-ui.svg" alt="Material UI icon">
+
+    <!--- Other Things -->
+    <img height="24" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VS code icon">
     <img height="24" src="https://cdn.svgporn.com/logos/heroku-icon.svg" alt="Heroku icon">
-  
-    <img height="24" src="https://cdn.svgporn.com/logos/yarn.svg" alt="Yarn icon">
-    <img height="24" src="https://cdn.svgporn.com/logos/react.svg" alt="React icon">
+    <img height="24" src="https://cdn.svgporn.com/logos/linux-tux.svg" alt="linux icon">
+    <img height="24" src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git icon">
   </div>
 
 <img
