@@ -7,11 +7,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/silash35)](https://github.com/silash35)
 ![number of visitors](https://visitor-badge.laobi.icu/badge?page_id=silash35)
 
-<img
-  align="right"
-  src="https://github-readme-stats.vercel.app/api?username=silash35&hide_border=true&show_icons=true&title_color=fff&text_color=fff&bg_color=0d1117"
-  alt="My Github stats, such as the number of commits made, stars, etc.">
-
 ## 🧐 **About**
 
 - 👨‍💻 My Website: [silash35.github.io](https://silash35.github.io)
@@ -43,9 +38,5 @@
     <img height="24" src="https://cdn.svgporn.com/logos/heroku-icon.svg" alt="Heroku icon">
     <img height="24" src="https://cdn.svgporn.com/logos/archlinux.svg" alt="Arch Linux icon">
   </div>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=silash35&layout=compact&hide_border=true&show_icons=true&text_color=fff&bg_color=0d1117"
-  alt="Top most used Languages of silash35 Card">
 
 ⭐️ From [Silash35](https://github.com/silash35)
