@@ -9,7 +9,7 @@
 
 ## 🧐 **About**
 
-- 👨‍💻 My Website: [silash35.github.io](https://silash35.github.io)
+- 👨‍💻 My Website: [silas.eng.br](https://silas.eng.br)
 - 📫 How to reach me: silash35@gmail.com
 - 🌱 Tools and stuff:
 
@@ -24,7 +24,7 @@
 
     <!--- Librarys -->
     <img height="24" src="https://cdn.svgporn.com/logos/react.svg" alt="React.js icon">
-    <img height="24" src="https://cdn.svgporn.com/logos/preact.svg" alt="Preact.js icon">
+    <img height="24" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="Tailwind CSS icon">
     <img height="24" src="https://cdn.svgporn.com/logos/material-ui.svg" alt="Material UI icon">
   
     <!--- JavaScript ecosystem  -->
@@ -35,7 +35,7 @@
     <!--- Other Things -->
     <img height="24" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="Visual Studio Code icon">
     <img height="24" src="https://cdn.svgporn.com/logos/arduino.svg" alt="Arduino icon">
-    <img height="24" src="https://cdn.svgporn.com/logos/heroku-icon.svg" alt="Heroku icon">
+    <img height="24" src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="Docker icon">
     <img height="24" src="https://cdn.svgporn.com/logos/archlinux.svg" alt="Arch Linux icon">
   </div>
 
