@@ -1,6 +1,6 @@
 # **Hello!**
 
-**I'm [Silas Henrique](https://github.com/silash35)！I'm an electro-mechanical technician ⚡ who is passionate about design and open source 🇧🇷**
+**I'm [Silas Henrique](https://github.com/silash35), an electro-mechanical technician ⚡ passionate about design and open source 🇧🇷.**
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/silash35)](https://twitter.com/silash35)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:silash35@gmail.com)](mailto:silash35@gmail.com)
